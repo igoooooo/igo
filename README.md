@@ -15,3 +15,5 @@ Igo
 う．Jetson につけたマイクから音声認識した質問を ChatGPT の API を用いて，ChatGPT に渡す．その
 後，ugo の API により，ugo のスピーカーから音声出力を行う．ChatGPT のモデルは GPT4-Turbo を用
 いた．
+
+ソースコードは後日追加予定
